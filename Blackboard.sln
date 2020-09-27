@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackboardTest", "Source\BlackboardTest\BlackboardTest.csproj", "{DE2B0487-6A9B-4D9C-B150-0C7E71903727}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aerotur.WebSpiders.Blackboard", "Source\Aerotur.WebSpiders.Blackboard\Aerotur.WebSpiders.Blackboard.csproj", "{DE8592C0-71E5-4C5E-BAD3-2DAD6EAED89B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE2B0487-6A9B-4D9C-B150-0C7E71903727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE2B0487-6A9B-4D9C-B150-0C7E71903727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE2B0487-6A9B-4D9C-B150-0C7E71903727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE2B0487-6A9B-4D9C-B150-0C7E71903727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE8592C0-71E5-4C5E-BAD3-2DAD6EAED89B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE8592C0-71E5-4C5E-BAD3-2DAD6EAED89B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE8592C0-71E5-4C5E-BAD3-2DAD6EAED89B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE8592C0-71E5-4C5E-BAD3-2DAD6EAED89B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {544F5E0F-EF2A-4500-9905-833822125434}
+	EndGlobalSection
+EndGlobal
